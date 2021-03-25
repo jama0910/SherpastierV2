@@ -1,0 +1,7 @@
+{
+  "name": "FriskLuft",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
